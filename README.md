@@ -38,5 +38,5 @@
 </a>
 <!-- Replace "images/" with the actual path to your images folder -->
 
-
-<!-- Adjust the image links and URLs accordingly with your own social media profiles -->
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/mahbub-ali-arju-5921411ab/)

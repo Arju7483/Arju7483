@@ -39,4 +39,6 @@
 <!-- Replace "images/" with the actual path to your images folder -->
 
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/mahbub-ali-arju-5921411ab/)
+  <a href="https://www.linkedin.com/in/mahbub-ali-arju-5921411ab/" title="Linkedin">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="11b24ab2156955d8f3fa" height="40px" width="50px"/>
+</a>

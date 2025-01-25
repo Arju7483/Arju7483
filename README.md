@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**Arju7483/Arju7483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-Here are some ideas to get you started:
+## About Me
+I'm a passionate Competitive Programmer. I love working on open-source projects and contributing to the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python, C++, C
+- **Tools:** Git
+
+## Projects
+### [Project Name](https://github.com/yourusername/projectname)
+A brief description of the project. ![GitHub stars](https://img.shields.io/github/stars/yourusername/projectname) ![GitHub forks](https://img.shields.io/github/forks/yourusername/projectname)
+
+### [Another Project](https://github.com/yourusername/anotherproject)
+A brief description of another project. ![GitHub stars](https://img.shields.io/github/stars/yourusername/anotherproject) ![GitHub forks](https://img.shields.io/github/forks/yourusername/anotherproject)
+
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/mahbub-ali-arju-5921411ab/)

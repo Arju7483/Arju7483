@@ -1,6 +1,6 @@
 ## Hi, I am Mahbub Ali Arju
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1468-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Arju_365i)  [![CodeChef](https://img.shields.io/badge/CodeChef-1864-purple?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/pseudo_code20)    [![LeetCode](https://img.shields.io/badge/LeetCode-1798-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/pseudo_code20/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1513-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Arju_365i)  [![CodeChef](https://img.shields.io/badge/CodeChef-1864-purple?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/pseudo_code20)    [![LeetCode](https://img.shields.io/badge/LeetCode-1798-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/pseudo_code20/)
 ---
 ![Total problems solved](https://img.shields.io/badge/Total%20problems%20solved-2000+-brightgreen?style=for-the-badge&logoColor=white&logo=toph)
 > ## Others Online judge accounts
